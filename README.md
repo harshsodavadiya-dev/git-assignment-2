@@ -29,6 +29,7 @@ git push -u origin writing
 
 4. Make a change to the line below in this file: \
 Marquette High School + No clue for major
+
 5. Add, commit, and push your changes: \
 git add README.md \
 git commit -m "Add school and intended major" \
